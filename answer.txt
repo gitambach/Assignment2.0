@@ -1,0 +1,17 @@
+     Name                 Id
+      Assen     Hussen    1123/10
+    Ambachew   Tarekegn   1115/10
+
+    Assignment I
+  1 C
+  2 D
+  3 B
+  4 D
+  5 C&D
+  Assignment II
+  1 B
+  2 C
+  3 A
+  4 A
+
+
